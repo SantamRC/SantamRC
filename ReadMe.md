@@ -16,4 +16,4 @@
 
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
 
-<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=gotham" alt="SantamRC" />
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" />
