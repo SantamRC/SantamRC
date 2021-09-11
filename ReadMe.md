@@ -30,9 +30,9 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
-
+<!--START_SECTION:waka-->
 I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
-
+<!--END_SECTION:waka-->
 
 <br/>
 
