@@ -14,7 +14,6 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 
 <img align="right" alt="GIF" src="./code.gif" width="400" height="230" />
 
-<br/>
 
 ### Languages and Tools Known:
 
@@ -27,13 +26,11 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img align="left" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-
-
+<img align="left" alt="material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <br/>
-
+<p align="center">
 I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
+</p>
 
 <br/>
-
 <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" /></p>
