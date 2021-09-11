@@ -10,8 +10,6 @@
 <br/>
 <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=SantamRC)
-
 ### Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning about new technologies and keeping up to date with them is something that I spend most of my time doing. Apart from web technologies, things that intrigues me involves robotics, drone making and opening up old gadgets to see how it works :)
 
 
