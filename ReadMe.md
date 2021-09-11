@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-### Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning about new technologies and keeping up to date with them is something that I spend most of my time doing. Apart from web technologies, things that intrigues me involves robotics, drone making and opening up old gadgets to see how it works :)
+Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning about new technologies and keeping up to date with them is something that I spend most of my time doing. Apart from web technologies, things that intrigues me involves robotics, drone making and opening up old gadgets to see how it works :)
 
 
 <br/>
@@ -31,7 +31,7 @@
 
 <br/>
 
-### I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
+I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
 <br/>
 
-<p align="center" style="top:100px" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" /></p>
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" /></p>
