@@ -32,6 +32,8 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 <br/>
 
 I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
+
+
 <br/>
 
 <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" /></p>
