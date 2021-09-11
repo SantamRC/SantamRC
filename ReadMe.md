@@ -14,7 +14,7 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 
 
 <br/>
-<img align="right" alt="GIF" src="./code.gif" width="200" height="120" />
+<img align="right" alt="GIF" src="./code.gif" width="300" height="220" />
 <br/>
 
 ### Languages and Tools Known:
