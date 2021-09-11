@@ -14,12 +14,8 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 
 
 <br/>
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="200" height="120" />
 <br/>
-<br/>
-<br/>
-<br/>
-
 
 ### Languages and Tools Known:
 
@@ -37,7 +33,6 @@ Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning ab
 <br/>
 
 I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
-
 
 <br/>
 
