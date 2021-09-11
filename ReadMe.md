@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-<p style="float:right" ><img alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ### I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
 
