@@ -30,10 +30,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
-<br/>
-
-
 
 ### I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
+<br/>
 
 <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=SantamRC&hide=stars&show_icons=true&theme=tokyonight" alt="SantamRC" />
