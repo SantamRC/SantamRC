@@ -41,9 +41,6 @@ I am always looking forward to meeting new people and work on various projects. 
   <img width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantamRC&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="SantamRC" />
   &nbsp
   <img width=260 src="http://github-readme-streak-stats.herokuapp.com?user=SantamRC&show_icons=true&theme=tokyonight&locale=en" />
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=nitinrathodsvnit&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true" />
 </p>
 <br/>
 
