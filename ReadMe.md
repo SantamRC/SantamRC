@@ -12,7 +12,7 @@
 
 Hi, I am Santam. I am a self taught Javascript and Python Developer. Learning about new technologies and keeping up to date with them is something that I spend most of my time doing. Apart from web technologies, things that intrigues me involves robotics, drone making and opening up old gadgets to see how it works :)
 
-<img align="right" alt="GIF" src="./code.gif" width="450" height="280" />
+![code](https://user-images.githubusercontent.com/52635773/207892324-21460781-5ba3-4232-a3c7-702fb53ea06d.gif)
 
 
 ### Languages and Tools Known:
