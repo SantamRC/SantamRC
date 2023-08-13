@@ -44,8 +44,6 @@ I am always looking forward to meeting new people and work on various projects. 
 </p>
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=SantamRC&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true">
-
 <br/>
 
 [![@SantamRC's Holopin board](https://holopin.me/santam123)](https://holopin.io/@santam123)
